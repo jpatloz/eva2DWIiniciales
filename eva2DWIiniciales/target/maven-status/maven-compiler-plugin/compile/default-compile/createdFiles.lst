@@ -1,0 +1,7 @@
+edu\hibernate\dao\notasEvaluacion.class
+edu\hibernate\dao\catalogoEvaluacion.class
+edu\hibernate\dao\insertarDatosImpl.class
+edu\hibernate\impl\Consultas.class
+edu\hibernate\dao\insertarNotasImpl.class
+edu\hibernate\dao\insertarNotasEvaluacion.class
+edu\hibernate\controller\Controlador.class
